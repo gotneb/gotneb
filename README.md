@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 ## Hey there! :vulcan_salute:
-### :man_technologist: I'm Gabriel, passionate about technology.
+### :man_technologist: I'm Gabriel, a passionate about technology.
 
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on open source game projects
