@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on open source game projects
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bento-da-silva-250291172/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bento-da-silva-250291172/)
 - ⚡ Fun fact: I'm studying electronic, but aiming to study software engineer
 ---
 
