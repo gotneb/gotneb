@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++ and MongoDB
 - 👯 I’m looking to collaborate on open source game projects
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bento-da-silva-250291172/)
-- ⚡ Fun fact: I'm studying electric engineer, but aiming to study software engineer
+- ⚡ Fun fact: I like so much Scandinavian mythology :heart:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
