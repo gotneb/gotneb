@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ## Hey there! :vulcan_salute:
 ### :man_technologist: I'm Gabriel, a passionate about technology.
 
-- 🌱 I’m learning Rust and MongoDB
+- 🌱 I’m learning C++
 - 👯 I’m looking to collaborate on open source game projects
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bento-da-silva-250291172/)
 
