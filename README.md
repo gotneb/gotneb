@@ -17,7 +17,7 @@ I'm just an enthusiast in programming who likes to spend my time learning progra
 ---
 
 ### 🌱 I’m currently learning :
-C++, Rust and MongoDB.
+C++, Kotlin and MongoDB.
 
 ---
 
