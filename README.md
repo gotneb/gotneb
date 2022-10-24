@@ -21,7 +21,7 @@ I'm just an enthusiast in programming who likes to spend my time learning progra
 
 ### 🌱 I’m currently learning :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
 
 ---
