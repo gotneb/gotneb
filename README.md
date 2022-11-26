@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hey there! :vulcan_salute:
 ### :man_technologist: I'm Gabriel, a passionate about technology.  [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bento-da-silva-250291172/)
 
-I'm just an enthusiast in programming who likes to spend my time learning programming and make my own tools. Let's connect? 
+I'm a student at Amazonas University majoring Electrical Engineering, also an enthusiast in programming who likes to spend my time learning programming and make my own tools. Let's connect? 
 
 ---
 
