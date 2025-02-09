@@ -11,12 +11,10 @@ I’m a mobile app developer, and I've been crafting seamless and innovative sol
   <img align="left" alt="Piash's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=gotneb&color=brightgreen&style=flat)
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs) and [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/)
-- 🌱 I’m currently learning [ktor](https://ktor.io/docs/welcome.html) backend
+- 🌱 I’m currently learning [React]([https://ktor.io/docs/welcome.html](https://react.dev/)) for frontend
 - 💬 Ask me about Android and Rust, I am happy to help
 - 📫 How to reach me: gabrielorigenstdb@gmail.com
 - ⚡ Fun fact: Happy to contribute to the open-source project
@@ -36,5 +34,3 @@ I’m a mobile app developer, and I've been crafting seamless and innovative sol
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </bre>
-| <a href="https://github.com/gotneb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gotneb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/gotneb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotneb&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
