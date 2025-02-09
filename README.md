@@ -9,13 +9,11 @@ I'm a mobile app developer with 4+ years of experience, crafting seamless and in
 - 💡 Learning [React](https://react.dev/) for frontend
 - 💬 Ask me about Android and Rust, I am happy to help
 - 📫 How to reach me: gabrielorigenstdb@gmail.com
-- 🎨 Fun fact: I love creating stories and have been writing for 10+ years
-- 📝 [Resume](https://drive.google.com)
-- 🤵 [Portfolio](https://gotneb.github.io/)
+- 🎨 Fun fact: I love creating stories and have been boing for 10+ years
 
 </bre>
 
-**📱 Tech Stack:**  
+**📱 Mobile & App Development**  
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter,docker,postgres,firebase,mongodb,git,figma)](https://skillicons.dev)
 
