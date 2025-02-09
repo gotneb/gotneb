@@ -10,14 +10,8 @@ I’m a mobile app developer, and I've been crafting seamless and innovative sol
 <a href="https://www.linkedin.com/in/piashcse/">
   <img align="left" alt="Piash's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@piashcse">
-  <img align="left" alt="Piash's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://piashcse.blogspot.com/">
-  <img align="left" alt="Piash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
-</a>
 
-![](https://komarev.com/ghpvc/?username=piashcse&color=brightgreen&style=flat)
+![](https://komarev.com/ghpvc/?username=gotneb&color=brightgreen&style=flat)
 
 **Talking about Personal Stuffs:**
 
@@ -38,7 +32,6 @@ I’m a mobile app developer, and I've been crafting seamless and innovative sol
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
