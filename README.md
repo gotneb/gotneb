@@ -16,19 +16,17 @@ I’m a mobile app developer, with 4+ years experience, and I've been crafting s
 
 </bre>
 
-**Languages and Tools:**  
+**Mobile Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></code>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter,docker,postgres,firebase,mongodb,git,figma)](https://skillicons.dev)
+
+
+**System Tools:**  
+
+[![My Skills](https://skillicons.dev/icons?i=linux,rust,c,cpp)](https://skillicons.dev)
+
+**Others Tools:**  
+
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,selenium)](https://skillicons.dev)
 
 </bre>
