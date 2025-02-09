@@ -1,16 +1,47 @@
-## Hi there 👋
+#### Hey 👋🏽, I'm [Gabriel Bento!](https://gotneb.github.io/) 
 
-<!--
-**gotneb/gotneb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a mobile app developer, and I've been crafting seamless and innovative solutions. Beyond code, I’m passionate about learning languages (Deutsch & 日本語).
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF"  width="380px" height="280px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://x.com/Gabriel36509504">
+  <img align="left" alt="Gabriel Bento | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/piashcse/">
+  <img align="left" alt="Piash's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@piashcse">
+  <img align="left" alt="Piash's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://piashcse.blogspot.com/">
+  <img align="left" alt="Piash's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=piashcse&color=brightgreen&style=flat)
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs) and [compose multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/)
+- 🌱 I’m currently learning [ktor](https://ktor.io/docs/welcome.html) backend
+- 💬 Ask me about Android and Rust, I am happy to help
+- 📫 How to reach me: gabrielorigenstdb@gmail.com
+- ⚡ Fun fact: Happy to contribute to the open-source project
+- 📝 [Resume](https://drive.google.com)
+- 🤵 [Portfolio](https://gotneb.github.io/)
+
+</bre>
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</bre>
+| <a href="https://github.com/piashcse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gotneb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/piashcse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
