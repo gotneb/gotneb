@@ -36,5 +36,5 @@ I’m a mobile app developer, and I've been crafting seamless and innovative sol
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </bre>
-| <a href="https://github.com/piashcse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gotneb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/piashcse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/piashcse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gotneb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gabriel's github stats" /></a> | <a href="https://github.com/gotneb/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piashcse&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
