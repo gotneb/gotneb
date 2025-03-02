@@ -2,6 +2,8 @@
 
 I'm a mobile app developer with 4+ years of experience, crafting seamless and innovative solutions.
 
+I love learning new things, new technologies and everything. Currently, I'm trying creating my own programming language.
+
 **Talking about Personal Interests:**
 
 - 🚀 Currently working on [Android](https://developer.android.com/docs) and [Compose Multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/) 
@@ -9,7 +11,6 @@ I'm a mobile app developer with 4+ years of experience, crafting seamless and in
 - 💡 Learning [React](https://react.dev/) for frontend
 - 💬 Ask me about Android and Rust, I am happy to help
 - 📫 How to reach me: gabrielorigenstdb@gmail.com
-- 🎨 Fun fact: I love creating stories and have been boing for 10+ years
 
 </bre>
 
