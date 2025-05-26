@@ -16,7 +16,7 @@ I love learning new things, new technologies and everything. Currently, I'm tryi
 
 **📱 Mobile & App Development**  
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter,docker,postgres,firebase,supabase,mongodb,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,docker,postgres,firebase,supabase,mongodb,git,figma)](https://skillicons.dev)
 
 
 **🛠️ Low-Level & Systems Development:**  
