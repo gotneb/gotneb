@@ -21,6 +21,6 @@ I'm always glad to connect with others devs, let's connect! :)
 
 **🛠️ Sub Stack**  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,mongodb,docker)](https://skillicons.dev)
 
 </bre>
