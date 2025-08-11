@@ -1,6 +1,6 @@
 #### Hey 👋🏽, I'm [Gabriel Bento!](https://gotneb.github.io/) 
 
-I'm a mobile app developer with 4+ years of experience. 
+I'm a FullStack Web & Mobile app developer with 5+ years of experience. 
 
 I'm always glad to connect with others devs, let's connect! :)
 
