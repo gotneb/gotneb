@@ -1,8 +1,6 @@
-## Hey 👋🏽, I'm [Gabriel Bento!](https://gotneb.github.io/) 
+## Hey 👋🏽, I'm [Gabriel Bento!](https://portfolio-react-alpha-rouge.vercel.app/) 
 
 I'm a FullStack Web & Mobile app developer with 5+ years of experience. 
-
-I'm always glad to connect with others devs, let's connect! :)
 
 **Talking about Personal Interests:**
 
@@ -10,7 +8,7 @@ I'm always glad to connect with others devs, let's connect! :)
 - ☕ I'm learning 🇯🇵, 🇨🇳 & 🇩🇪
 - 💡 Creating my own programming language.
 - 💬 Ask me about Kotlin and Rust, I am happy to help.
-- 📫 How to reach me: gabrielorigenstdb@gmail.com
+- 📫 How to reach me: bento.gabriel@proton.me
 
 </bre>
 
@@ -21,6 +19,6 @@ I'm always glad to connect with others devs, let's connect! :)
 
 **🛠️ Web Stack**  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,tailwind,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,mongodb,docker)](https://skillicons.dev)
 
 </bre>
