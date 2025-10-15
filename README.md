@@ -19,6 +19,6 @@ I'm a FullStack Web & Mobile app developer with 5+ years of experience.
 
 **🛠️ Web Stack**  
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,next,react,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,next,react,mongodb,docker,postgres)](https://skillicons.dev)
 
 </bre>
