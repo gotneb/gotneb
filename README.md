@@ -7,8 +7,8 @@ I'm a FullStack Web & Mobile app developer with 5+ years of experience.
 - 🔭 Currently working on [Android](https://developer.android.com/docs) and [Compose Multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/) 
 - ☕ I'm learning 🇯🇵, 🇨🇳 & 🇩🇪
 - 💡 Creating my own programming language.
-- 💬 Ask me about Kotlin and Rust, I am happy to help.
 - 📫 How to reach me: bento.gabriel@proton.me
+- 🌍 文化交流 (Cultural Exchange): 我正在学习中文，很想和说中文的朋友交流！我们可以一起做项目，我也可以教你我的母语（如果你感兴趣的话）。非常期待交到新朋友！
 
 </bre>
 
