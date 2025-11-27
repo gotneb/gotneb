@@ -4,7 +4,7 @@ I'm a FullStack Web & Mobile app developer with 5+ years of experience.
 
 **Talking about Personal Interests:**
 
-- 🔭 Currently working on [Android](https://developer.android.com/docs) and [Compose Multiplatfrom](https://www.jetbrains.com/lp/compose-multiplatform/) 
+- 🔭 Currently working on [React.js](https://react.dev) and [Flutter](https://flutter.dev) 
 - ☕ I'm learning 🇯🇵, 🇨🇳 & 🇩🇪
 - 💡 Creating my own programming language.
 - 📫 How to reach me: bento.gabriel@proton.me
